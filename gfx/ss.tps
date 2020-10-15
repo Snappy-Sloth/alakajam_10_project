@@ -211,6 +211,67 @@
                 <key>scale9FromFile</key>
                 <false/>
             </struct>
+            <key type="filename">export/backExplosion0.png</key>
+            <key type="filename">export/backExplosion1.png</key>
+            <key type="filename">export/backExplosion2.png</key>
+            <key type="filename">export/backExplosion3.png</key>
+            <key type="filename">export/backExplosion4.png</key>
+            <key type="filename">export/backExplosion5.png</key>
+            <key type="filename">export/backExplosion6.png</key>
+            <key type="filename">export/life.png</key>
+            <key type="filename">export/questGoal0.png</key>
+            <key type="filename">export/questGoal1.png</key>
+            <key type="filename">export/questGoal2.png</key>
+            <key type="filename">export/questGoal3.png</key>
+            <key type="filename">export/questGoal4.png</key>
+            <key type="filename">export/questGoal5.png</key>
+            <key type="filename">export/questGoal6.png</key>
+            <key type="filename">export/questGoal7.png</key>
+            <key type="filename">export/questGoal8.png</key>
+            <struct type="IndividualSpriteSettings">
+                <key>pivotPoint</key>
+                <point_f>0.5,0.5</point_f>
+                <key>spriteScale</key>
+                <double>1</double>
+                <key>scale9Enabled</key>
+                <false/>
+                <key>scale9Borders</key>
+                <rect>3,3,5,5</rect>
+                <key>scale9Paddings</key>
+                <rect>3,3,5,5</rect>
+                <key>scale9FromFile</key>
+                <false/>
+            </struct>
+            <key type="filename">export/bgHUD.png</key>
+            <struct type="IndividualSpriteSettings">
+                <key>pivotPoint</key>
+                <point_f>0.5,0.5</point_f>
+                <key>spriteScale</key>
+                <double>1</double>
+                <key>scale9Enabled</key>
+                <false/>
+                <key>scale9Borders</key>
+                <rect>32,27,64,55</rect>
+                <key>scale9Paddings</key>
+                <rect>32,27,64,55</rect>
+                <key>scale9FromFile</key>
+                <false/>
+            </struct>
+            <key type="filename">export/bgUIsg.png</key>
+            <struct type="IndividualSpriteSettings">
+                <key>pivotPoint</key>
+                <point_f>0.5,0.5</point_f>
+                <key>spriteScale</key>
+                <double>1</double>
+                <key>scale9Enabled</key>
+                <false/>
+                <key>scale9Borders</key>
+                <rect>8,8,16,16</rect>
+                <key>scale9Paddings</key>
+                <rect>8,8,16,16</rect>
+                <key>scale9FromFile</key>
+                <false/>
+            </struct>
             <key type="filename">export/button.png</key>
             <struct type="IndividualSpriteSettings">
                 <key>pivotPoint</key>
@@ -223,6 +284,85 @@
                 <rect>25,13,50,25</rect>
                 <key>scale9Paddings</key>
                 <rect>25,13,50,25</rect>
+                <key>scale9FromFile</key>
+                <false/>
+            </struct>
+            <key type="filename">export/buttonIdle.png</key>
+            <key type="filename">export/buttonOver.png</key>
+            <key type="filename">export/buttonPress.png</key>
+            <struct type="IndividualSpriteSettings">
+                <key>pivotPoint</key>
+                <point_f>0.5,0.5</point_f>
+                <key>spriteScale</key>
+                <double>1</double>
+                <key>scale9Enabled</key>
+                <false/>
+                <key>scale9Borders</key>
+                <rect>35,12,69,25</rect>
+                <key>scale9Paddings</key>
+                <rect>35,12,69,25</rect>
+                <key>scale9FromFile</key>
+                <false/>
+            </struct>
+            <key type="filename">export/door.png</key>
+            <struct type="IndividualSpriteSettings">
+                <key>pivotPoint</key>
+                <point_f>0.5,0.5</point_f>
+                <key>spriteScale</key>
+                <double>1</double>
+                <key>scale9Enabled</key>
+                <false/>
+                <key>scale9Borders</key>
+                <rect>5,0,11,1</rect>
+                <key>scale9Paddings</key>
+                <rect>5,0,11,1</rect>
+                <key>scale9FromFile</key>
+                <false/>
+            </struct>
+            <key type="filename">export/externalClosed.png</key>
+            <key type="filename">export/externalEntrance.png</key>
+            <key type="filename">export/externalExit.png</key>
+            <struct type="IndividualSpriteSettings">
+                <key>pivotPoint</key>
+                <point_f>0.5,0.5</point_f>
+                <key>spriteScale</key>
+                <double>1</double>
+                <key>scale9Enabled</key>
+                <false/>
+                <key>scale9Borders</key>
+                <rect>7,9,15,18</rect>
+                <key>scale9Paddings</key>
+                <rect>7,9,15,18</rect>
+                <key>scale9FromFile</key>
+                <false/>
+            </struct>
+            <key type="filename">export/fxCircle0.png</key>
+            <struct type="IndividualSpriteSettings">
+                <key>pivotPoint</key>
+                <point_f>0.5,0.5</point_f>
+                <key>spriteScale</key>
+                <double>1</double>
+                <key>scale9Enabled</key>
+                <false/>
+                <key>scale9Borders</key>
+                <rect>4,4,8,8</rect>
+                <key>scale9Paddings</key>
+                <rect>4,4,8,8</rect>
+                <key>scale9FromFile</key>
+                <false/>
+            </struct>
+            <key type="filename">export/fxDot0.png</key>
+            <struct type="IndividualSpriteSettings">
+                <key>pivotPoint</key>
+                <point_f>0.5,0.5</point_f>
+                <key>spriteScale</key>
+                <double>1</double>
+                <key>scale9Enabled</key>
+                <false/>
+                <key>scale9Borders</key>
+                <rect>1,1,1,1</rect>
+                <key>scale9Paddings</key>
+                <rect>1,1,1,1</rect>
                 <key>scale9FromFile</key>
                 <false/>
             </struct>
@@ -241,7 +381,12 @@
                 <key>scale9FromFile</key>
                 <false/>
             </struct>
-            <key type="filename">export/life.png</key>
+            <key type="filename">export/levelButtonIdle.png</key>
+            <key type="filename">export/levelButtonOver.png</key>
+            <key type="filename">export/levelButtonPress.png</key>
+            <key type="filename">export/littleButtonIdle.png</key>
+            <key type="filename">export/littleButtonOver.png</key>
+            <key type="filename">export/littleButtonPress.png</key>
             <struct type="IndividualSpriteSettings">
                 <key>pivotPoint</key>
                 <point_f>0.5,0.5</point_f>
@@ -250,9 +395,9 @@
                 <key>scale9Enabled</key>
                 <false/>
                 <key>scale9Borders</key>
-                <rect>3,3,5,5</rect>
+                <rect>23,12,47,23</rect>
                 <key>scale9Paddings</key>
-                <rect>3,3,5,5</rect>
+                <rect>23,12,47,23</rect>
                 <key>scale9FromFile</key>
                 <false/>
             </struct>
@@ -301,6 +446,54 @@
                 <key>scale9FromFile</key>
                 <false/>
             </struct>
+            <key type="filename">export/menuButtonIdle.png</key>
+            <key type="filename">export/menuButtonOver.png</key>
+            <key type="filename">export/menuButtonPress.png</key>
+            <struct type="IndividualSpriteSettings">
+                <key>pivotPoint</key>
+                <point_f>0.5,0.5</point_f>
+                <key>spriteScale</key>
+                <double>1</double>
+                <key>scale9Enabled</key>
+                <false/>
+                <key>scale9Borders</key>
+                <rect>11,12,22,23</rect>
+                <key>scale9Paddings</key>
+                <rect>11,12,22,23</rect>
+                <key>scale9FromFile</key>
+                <false/>
+            </struct>
+            <key type="filename">export/newHighscore.png</key>
+            <struct type="IndividualSpriteSettings">
+                <key>pivotPoint</key>
+                <point_f>0.5,0.5</point_f>
+                <key>spriteScale</key>
+                <double>1</double>
+                <key>scale9Enabled</key>
+                <false/>
+                <key>scale9Borders</key>
+                <rect>14,2,27,5</rect>
+                <key>scale9Paddings</key>
+                <rect>14,2,27,5</rect>
+                <key>scale9FromFile</key>
+                <false/>
+            </struct>
+            <key type="filename">export/pixel.png</key>
+            <key type="filename">export/roadStep.png</key>
+            <struct type="IndividualSpriteSettings">
+                <key>pivotPoint</key>
+                <point_f>0.5,0.5</point_f>
+                <key>spriteScale</key>
+                <double>1</double>
+                <key>scale9Enabled</key>
+                <false/>
+                <key>scale9Borders</key>
+                <rect>0,0,1,1</rect>
+                <key>scale9Paddings</key>
+                <rect>0,0,1,1</rect>
+                <key>scale9FromFile</key>
+                <false/>
+            </struct>
             <key type="filename">export/play.png</key>
             <key type="filename">export/restartBtn.png</key>
             <struct type="IndividualSpriteSettings">
@@ -314,6 +507,26 @@
                 <rect>13,13,25,25</rect>
                 <key>scale9Paddings</key>
                 <rect>13,13,25,25</rect>
+                <key>scale9FromFile</key>
+                <false/>
+            </struct>
+            <key type="filename">export/playButtonIdle.png</key>
+            <key type="filename">export/playButtonOver.png</key>
+            <key type="filename">export/playButtonPress.png</key>
+            <key type="filename">export/restartButtonIdle.png</key>
+            <key type="filename">export/restartButtonOver.png</key>
+            <key type="filename">export/restartButtonPress.png</key>
+            <struct type="IndividualSpriteSettings">
+                <key>pivotPoint</key>
+                <point_f>0.5,0.5</point_f>
+                <key>spriteScale</key>
+                <double>1</double>
+                <key>scale9Enabled</key>
+                <false/>
+                <key>scale9Borders</key>
+                <rect>12,12,23,25</rect>
+                <key>scale9Paddings</key>
+                <rect>12,12,23,25</rect>
                 <key>scale9FromFile</key>
                 <false/>
             </struct>
@@ -340,7 +553,7 @@
                 <key>scale9FromFile</key>
                 <false/>
             </struct>
-            <key type="filename">export/roadStep.png</key>
+            <key type="filename">export/separationBar.png</key>
             <struct type="IndividualSpriteSettings">
                 <key>pivotPoint</key>
                 <point_f>0.5,0.5</point_f>
@@ -349,9 +562,9 @@
                 <key>scale9Enabled</key>
                 <false/>
                 <key>scale9Borders</key>
-                <rect>0,0,1,1</rect>
+                <rect>46,1,91,1</rect>
                 <key>scale9Paddings</key>
-                <rect>0,0,1,1</rect>
+                <rect>46,1,91,1</rect>
                 <key>scale9FromFile</key>
                 <false/>
             </struct>
@@ -367,6 +580,24 @@
                 <rect>3,3,5,6</rect>
                 <key>scale9Paddings</key>
                 <rect>3,3,5,6</rect>
+                <key>scale9FromFile</key>
+                <false/>
+            </struct>
+            <key type="filename">export/shipWaterMove0.png</key>
+            <key type="filename">export/shipWaterMove1.png</key>
+            <key type="filename">export/shipWaterMove2.png</key>
+            <key type="filename">export/shipWaterMove3.png</key>
+            <struct type="IndividualSpriteSettings">
+                <key>pivotPoint</key>
+                <point_f>0.5,0.5</point_f>
+                <key>spriteScale</key>
+                <double>1</double>
+                <key>scale9Enabled</key>
+                <false/>
+                <key>scale9Borders</key>
+                <rect>1,3,3,7</rect>
+                <key>scale9Paddings</key>
+                <rect>1,3,3,7</rect>
                 <key>scale9FromFile</key>
                 <false/>
             </struct>
